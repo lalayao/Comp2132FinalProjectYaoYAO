@@ -219,3 +219,9 @@ p {
 @viewport {
   min-width: 1024px;
 }
+#foot {
+  position: absolute;
+  top: 1900px;
+  background-color: black;
+  color: white;
+}
